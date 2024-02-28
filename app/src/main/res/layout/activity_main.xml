@@ -31,6 +31,7 @@
         android:id="@+id/galleryPremission_textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:text="Neeraj kumar"
         />
     <Button
         android:id="@+id/galleryPremission_button"
